@@ -1,0 +1,24 @@
+.container {
+    margin: 0 300px 0 300px;
+    position: absolute;
+}
+img[src="images/profile-pic.jpeg"]  {
+    float: left;
+    clip-path: circle(50%);
+}
+#author {
+    display: block;
+    place-items: center;
+    padding-top: 2px;
+   
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+}
+p, li {
+    font-size: 22px;
+}
