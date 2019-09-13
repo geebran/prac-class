@@ -2,7 +2,7 @@
     margin: 0 300px 0 300px;
     position: absolute;
 }
-img[src="https://miro.medium.com/fit/c/96/96/1*Dg5Nl8BJYGqNAjxsoUwCng.jpeg"] {
+img[src="images/profile-pic.jpeg"]  {
     float: left;
     clip-path: circle(50%);
 }
